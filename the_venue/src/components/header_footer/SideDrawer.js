@@ -1,5 +1,5 @@
 import React from 'react';
-import { scroller } from 'react-scroll':
+import { scroller } from 'react-scroll';
 
 import Drawer from '@material-ui/core/Drawer';
 import List from '@material-ui/core/List';
